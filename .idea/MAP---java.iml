@@ -3,6 +3,7 @@
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
     <content url="file://$MODULE_DIR$/../a1-dorina-adina">
+      <sourceFolder url="file://$MODULE_DIR$/../a1-dorina-adina" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/../a1-dorina-adina/src" isTestSource="false" />
     </content>
     <content url="file://$MODULE_DIR$/../a2-dorina-adina">
