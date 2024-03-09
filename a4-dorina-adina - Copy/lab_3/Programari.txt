@@ -1,0 +1,7 @@
+77,77,Antonescu,Emil,40,2024-02-11,12:44,e,
+1,1,Pop,Ana,13,2023-12-11,12:40,Extractie dentara,
+2,1,Pop,Ana,13,2024-01-11,13:10,Consult,
+3,2,Popescu,Silvia,25,2023-12-11,13:40,Albire dinti,
+4,3,Rus,Bogdan,15,2023-12-11,11:35,Dertartraj,
+5,4,Antonescu,Emil,30,2024-02-11,15:00,Consult,
+6,4,Antonescu,Emil,30,2023-12-28,16:00,Consult,

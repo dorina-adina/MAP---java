@@ -1,0 +1,6 @@
+3,Rus,Bogdan,15,
+4,Antonescu,Emil,30,
+5,Capota,Dorin,50,
+7,Alena,Ana,33,
+1,Pop,Ana,13,
+2,Popescu,Silvia,25,
