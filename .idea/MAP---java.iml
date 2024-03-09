@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../a1-dorina-adina">
+      <sourceFolder url="file://$MODULE_DIR$/../a1-dorina-adina/src" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../a2-dorina-adina">
+      <sourceFolder url="file://$MODULE_DIR$/../a2-dorina-adina" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../a3-dorina-adina">
+      <sourceFolder url="file://$MODULE_DIR$/../a3-dorina-adina" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../a4-dorina-adina">
+      <sourceFolder url="file://$MODULE_DIR$/../a4-dorina-adina/lab_3/src" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../er-dorina-adina">
+      <sourceFolder url="file://$MODULE_DIR$/../er-dorina-adina/examenM/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
