@@ -1,2 +1,1 @@
-# MAP---java
-# Laboratoarele realizate in cadrul cursului Metode Avansate de Programare
+# Management of appointments at a dental office
