@@ -1,7 +1,7 @@
 # Management of appointments at a dental office
 A Java implementation based on layered architecture principles for appointment management at a dental office. The entities in the problem domain are Patient (ID, first name, last name, age) and Appointment (ID, patient : Patient, date, time, purpose of appointment). Each appointment has exactly one patient associated with it, but a patient can have multiple appointments. Each appointment lasts 60 minutes.
 - A2
-     -  The user interface is implemented in the form of a console application with a user menu.
+     -  The user interface is implemented in the form of a console application with an user menu.
      -  The user interface allows performing CRUD operations on entities in the domain.
      -  Basic validations (e.g. objects in the repository must have a unique ID, an object was not found in the repository, validations related to possible overlaps of data in appointments and rentals) using the exception mechanism in Java. Exceptions thrown will be caught in the user interface, where an appropriate message will be displayed.
 - A3
@@ -11,7 +11,7 @@ A Java implementation based on layered architecture principles for appointment m
    - Unit tests using JUnit.
 - A4
   - The requirements defined in topic A3 are kept.
-  - A new Repository which allows the storage of domain entities in a SQL database. The decision regarding which type of repository is used will be made by using the settings.properties file, implemented within the A3 theme
+  - A new Repository which allows the storage of domain entities in a SQL database. The decision regarding which type of repository is used will be made by using the settings.properties file, implemented within the A3 theme.
   - The graphical user interface implemented for the problem using JavaFX technology. The application can be started both in the command line and using the graphical interface.
   - With the help of Java 8 streams:
 - The number of appointments for each individual patient. The patient's data and the total number of appointments for him are displayed. The display is done in descending order of the number of appointments.
