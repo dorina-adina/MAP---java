@@ -8,7 +8,7 @@ A Java implementation based on layered architecture principles for appointment m
     - The requirements defined in topic A2 are kept.
     - New Repository classes for storing problem domain entities. One of these classes will store the entities in a text file and the other in a binary file. Also, the program can be started using any of these Repository implementations.
    -  The decision regarding the type of Repository used, as well as the location on disk of the input files is made through a settings file (settings.properties) that will be read by the program through the Properties class.
-   - Unit tests using JUnit(because the code for the tests of the binary and text files is uncommented, before starting the application the files testDataPacient.bin, testDataProgramare.bin, tempFileTestPacient.txt, tempFileTestProgramare.txt must be created in src directory).
+   - Unit tests using JUnit (because the code for the tests of the binary and text files is uncommented, before starting the application the files testDataPacient.bin, testDataProgramare.bin, tempFileTestPacient.txt, tempFileTestProgramare.txt must be created in src directory).
 - A4
   - The requirements defined in topic A3 are kept.
   - A new Repository which allows the storage of domain entities in a SQL database. The decision regarding which type of repository is used will be made by using the settings.properties file, implemented within the A3 theme.
