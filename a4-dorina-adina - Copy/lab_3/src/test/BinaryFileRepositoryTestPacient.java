@@ -31,8 +31,8 @@ public class BinaryFileRepositoryTestPacient {
 
    @Test
    public void testAddAndSave() throws RepositoryException, IOException, ClassNotFoundException {
-       Pacient pacient = new Pacient(1, "Mihailescu", "Pavel", 22);
-       Pacient pacient2 = new Pacient(2, "Miha", "Pavel", 20);
+       Pacient pacient = new Pacient(1, "Pop", "Pavel", 22);
+       Pacient pacient2 = new Pacient(2, "Popa", "Pavel", 20);
 
        binaryRepo.add(pacient);
        binaryRepo.add(pacient2);
